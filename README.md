@@ -4,8 +4,6 @@ Hi 👋 My name is Lupe
 Software Engineer
 -----------------
 
-Building useless apps. Currently debating whether I want a job that pays 80k+, be broke and focus on building a startup, or do both.
-
 * 🌍  I'm based in Los Angeles
 * 🖥️  See my portfolio at [MyPortfolio](http://www.lupecs.com)
 * ✉️  You can contact me at [lupecsahagun@gmail.com](mailto:lupecsahagun@gmail.com)
