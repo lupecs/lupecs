@@ -1,7 +1,7 @@
 Hi 👋 My name is Lupe
 =====================
 
-Software Engineer | Mentorade
+Software Engineer
 -----------------
 
 * 🌍  I'm based in Los Angeles
