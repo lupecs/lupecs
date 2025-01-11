@@ -7,7 +7,6 @@ Software Engineer
 * 🌍  I'm based in Los Angeles
 * 🖥️  See my portfolio at [MyPortfolio](http://www.lupecs.com)
 * ✉️  You can contact me at [lupecsahagun@gmail.com](mailto:lupecsahagun@gmail.com)
-* 🚀  I'm currently working on [Crypto Mystik](http://www.cryptomystik.com)
 * 🤝  I'm open to collaborating on blockchain development and sustainable technology
 * ⚡  Just vibin'
 
