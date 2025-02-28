@@ -5,9 +5,9 @@ Software Engineer
 -----------------
 
 * 🌍  I'm based in Los Angeles
-* 🖥️  See my portfolio at [MyPortfolio](http://www.lupecs.com)
+* 🖥️  See my portfolio at [MyPortfolio](http://www.loopxlabs.com)
 * ✉️  You can contact me at [lupecsahagun@gmail.com](mailto:lupecsahagun@gmail.com)
-* 🤝  I'm open to collaborating on blockchain development and sustainable technology
+* 🤝  I'm open to collaborating on ai/ml development and sustainable technology
 * ⚡  Just vibin'
 
 <a href="https://www.twitter.com/lupitacodes" target="_blank" rel="noreferrer"><img
@@ -52,10 +52,6 @@ src="https://img.shields.io/github/followers/lupecs?logo=github&style=for-the-ba
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/lupecs#0927" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/lupecs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://lupecs.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/loopitacodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/guadalupesahagun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@lupecs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/lupitacodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<a href="https://github.com/lupecs" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lupecs&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
