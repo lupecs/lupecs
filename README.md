@@ -5,7 +5,6 @@ Software Engineer
 -----------------
 
 * 🌍  I'm based in Los Angeles
-* 🖥️  See my portfolio at [MyPortfolio](http://www.loopxlabs.com)
 * ✉️  You can contact me at [lupecsahagun@gmail.com](mailto:lupecsahagun@gmail.com)
 * 🤝  I'm open to collaborating on ai/ml development and sustainable technology
 * ⚡  Just vibin'
