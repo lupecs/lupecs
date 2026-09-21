@@ -1,52 +1,194 @@
-Hi 👋 My name is Lupe
-=====================
+# Hey, I'm Lupe 👋
 
-Software Engineer
------------------
+### Software Engineer • Builder • Founder
 
-* 🌍  I'm based in Los Angeles
-* 🤝  I'm open to collaborating on ai/ml development and sustainable technology
-* ⚡  Just vibin'
+I'm a software engineer and builder based in **Los Angeles, California**. I like turning ideas into real products — from early prototypes and web applications to backend systems, developer tools, and sustainability-focused technology.
 
-<a href="https://www.twitter.com/lupitacodes" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/lupitacodes?logo=twitter&style=for-the-badge&color=ec4899&labelColor=1c1917"
-/></a><a href="https://www.github.com/lupecs" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/lupecs?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a>
+Currently building startups, experimenting with new technologies, and continuing my journey deeper into **software engineering, data engineering, and intelligent systems**.
 
-### Skills
+> *Build things. Learn constantly. Keep vibing.* ✨
+
+---
+
+## 🚀 What I'm Building
+
+### 🌊 [Olyada](https://olyada.com)
+
+**Discover opportunities, connections, and what's next.**
+
+Olyada is a platform designed to help people discover opportunities and build meaningful professional connections through smarter matching and discovery.
+
+I'm building the product from the ground up across the frontend, backend, infrastructure, and product experience.
+
+**Working with:**
+`Next.js` `React` `TypeScript` `Node.js` `Fastify` `PostgreSQL` `Prisma` `AWS` `Vercel`
+
+→ [olyada.com](https://olyada.com)
+
+---
+
+### ✨ [Stellora](https://www.stellorahq.com)
+
+**Intelligent CRM for small businesses.**
+
+Stellora is a CRM built around the idea that small businesses shouldn't have to force their workflow into complicated enterprise software.
+
+The goal is to create a CRM that adapts to the way each business actually operates — from customer management and communication to business-specific workflows and insights.
+
+**Working with:**
+`Next.js` `React` `TypeScript` `Supabase` `PostgreSQL` `Vercel` `PostHog`
+
+→ [stellorahq.com](https://www.stellorahq.com)
+
+---
+
+### 🌱 [LoopxLabs](https://loopxlabs.com)
+
+**Sustainability for Stability.**
+
+LoopxLabs is my technology umbrella focused on building and supporting technology with an emphasis on **economic viability, environmental stewardship, and social responsibility**.
+
+It's where my interest in technology and sustainability come together.
+
+→ [loopxlabs.com](https://loopxlabs.com)
+
+---
+
+## 🛠️ Other Things I've Built
+
+### 🌎 EcoCompute
+
+An open-source Java project exploring ways software can help reduce unnecessary data-center resource consumption.
+
+One of the projects I've worked on is a **compression potential analyzer**, exploring whether files could benefit from compression before processing or storage.
+
+**Tech:**
+`Java` `Java 21` `Maven`
+
+→ [View on GitHub](https://github.com/lupecs)
+
+---
+
+### 💻 The Projekt Pool
+
+An earlier project that evolved into what is now **Olyada**.
+
+The project explored a different approach to connecting people with professional opportunities through matching, discovery, and online networking.
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,c,php" />
 </p>
 
+### Frontend
 
-### Socials
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,bootstrap,redux" />
+</p>
 
-<p align="left"> <a href="https://www.github.com/lupecs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://lupecs.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/loopitacodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/guadalupesahagun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@lupecs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/lupitacodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### Backend & Data
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,mysql,mongodb,firebase" />
+</p>
+
+### Infrastructure & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,vercel,git,github,docker,linux" />
+</p>
+
+### Design
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=figma,xd,ai" />
+</p>
+
+---
+
+## 🌟 What I Like Building
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   Software        Startups        Data              │
+│      ↓               ↓              ↓               │
+│   Products        Ideas →         Systems            │
+│                    Reality                           │
+│                                                     │
+│   Sustainability       Design        Technology     │
+│          ↓                ↓              ↓          │
+│       Impact          Experience       Innovation    │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+I'm particularly interested in projects sitting at the intersection of:
+
+**Software × Data × Business × Sustainability**
+
+---
+
+## 📊 GitHub
+
+<p align="left">
+<a href="https://github.com/lupecs">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lupecs&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/lupecs">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lupecs&layout=compact&hide_border=true" />
+</a>
+</p>
+
+---
+
+## 🌐 Find Me
+
+<p align="left">
+
+<a href="https://github.com/lupecs">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/guadalupesahagun">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://x.com/lupitacodes">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/loopitacodes">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://lupecs.hashnode.dev/">
+<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+## ☕ A Little About Me
+
+```text
+📍 Los Angeles
+💻 Building products
+🌱 Interested in sustainable technology
+📚 Learning data engineering
+🚀 Working on startups
+🎨 Occasionally making things look pretty
+☕ Probably coding
+```
+
+### Thanks for stopping by! 👋
+
+If you're building something interesting, feel free to connect.
+
+**Let's build something cool.**
