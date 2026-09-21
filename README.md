@@ -69,12 +69,6 @@ One of the projects I've worked on is a **compression potential analyzer**, expl
 
 ---
 
-### 💻 The Projekt Pool
-
-An earlier project that evolved into what is now **Olyada**.
-
-The project explored a different approach to connecting people with professional opportunities through matching, discovery, and online networking.
-
 ---
 
 ## 🧰 Tech Stack
@@ -113,37 +107,9 @@ The project explored a different approach to connecting people with professional
 
 ## 🌟 What I Like Building
 
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   Software        Startups        Data              │
-│      ↓               ↓              ↓               │
-│   Products        Ideas →         Systems            │
-│                    Reality                           │
-│                                                     │
-│   Sustainability       Design        Technology     │
-│          ↓                ↓              ↓          │
-│       Impact          Experience       Innovation    │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
 I'm particularly interested in projects sitting at the intersection of:
 
 **Software × Data × Business × Sustainability**
-
----
-
-## 📊 GitHub
-
-<p align="left">
-<a href="https://github.com/lupecs">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lupecs&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/lupecs">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lupecs&layout=compact&hide_border=true" />
-</a>
-</p>
 
 ---
 
@@ -163,29 +129,9 @@ I'm particularly interested in projects sitting at the intersection of:
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/loopitacodes">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://lupecs.hashnode.dev/">
-<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-</a>
-
 </p>
 
 ---
-
-## ☕ A Little About Me
-
-```text
-📍 Los Angeles
-💻 Building products
-🌱 Interested in sustainable technology
-📚 Learning data engineering
-🚀 Working on startups
-🎨 Occasionally making things look pretty
-☕ Probably coding
-```
 
 ### Thanks for stopping by! 👋
 
