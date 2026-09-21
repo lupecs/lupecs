@@ -113,26 +113,6 @@ I'm particularly interested in projects sitting at the intersection of:
 
 ---
 
-## 🌐 Find Me
-
-<p align="left">
-
-<a href="https://github.com/lupecs">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/guadalupesahagun">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://x.com/lupitacodes">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-</p>
-
----
-
 ### Thanks for stopping by! 👋
 
 If you're building something interesting, feel free to connect.
