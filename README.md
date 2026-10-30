@@ -2,11 +2,9 @@
 
 ### Software Engineer • Builder • Founder
 
-I'm a software engineer and builder based in **Los Angeles, California**. I like turning ideas into real products — from early prototypes and web applications to backend systems, developer tools, and sustainability-focused technology.
+I'm a software engineer and builder based in **Los Angeles, California**. 
 
 Currently building startups, experimenting with new technologies, and continuing my journey deeper into **software engineering, data engineering, and intelligent systems**.
-
-> *Build things. Learn constantly. Keep vibing.* ✨
 
 ---
 
@@ -39,18 +37,6 @@ The goal is to create a CRM that adapts to the way each business actually operat
 `Next.js` `React` `TypeScript` `Supabase` `PostgreSQL` `Vercel` `PostHog`
 
 → [stellorahq.com](https://www.stellorahq.com)
-
----
-
-### 🌱 [LoopxLabs](https://loopxlabs.com)
-
-**Sustainability for Stability.**
-
-LoopxLabs is my technology umbrella focused on building and supporting technology with an emphasis on **economic viability, environmental stewardship, and social responsibility**.
-
-It's where my interest in technology and sustainability come together.
-
-→ [loopxlabs.com](https://loopxlabs.com)
 
 ---
 
@@ -91,18 +77,6 @@ One of the projects I've worked on is a **compression potential analyzer**, expl
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,mysql,mongodb,firebase" />
 </p>
 
-### Infrastructure & Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,vercel,git,github,docker,linux" />
-</p>
-
-### Design
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=figma,xd,ai" />
-</p>
-
 ---
 
 ## 🌟 What I Like Building
@@ -116,5 +90,3 @@ I'm particularly interested in projects sitting at the intersection of:
 ### Thanks for stopping by! 👋
 
 If you're building something interesting, feel free to connect.
-
-**Let's build something cool.**
