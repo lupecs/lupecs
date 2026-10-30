@@ -40,53 +40,6 @@ The goal is to create a CRM that adapts to the way each business actually operat
 
 ---
 
-## 🛠️ Other Things I've Built
-
-### 🌎 EcoCompute
-
-An open-source Java project exploring ways software can help reduce unnecessary data-center resource consumption.
-
-One of the projects I've worked on is a **compression potential analyzer**, exploring whether files could benefit from compression before processing or storage.
-
-**Tech:**
-`Java` `Java 21` `Maven`
-
-→ [View on GitHub](https://github.com/lupecs)
-
----
-
----
-
-## 🧰 Tech Stack
-
-### Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,c,php" />
-</p>
-
-### Frontend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,bootstrap,redux" />
-</p>
-
-### Backend & Data
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,mysql,mongodb,firebase" />
-</p>
-
----
-
-## 🌟 What I Like Building
-
-I'm particularly interested in projects sitting at the intersection of:
-
-**Software × Data × Business × Sustainability**
-
----
-
 ### Thanks for stopping by! 👋
 
 If you're building something interesting, feel free to connect.
